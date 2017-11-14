@@ -1,0 +1,8 @@
+examples
+framework/*
+!framework/*.swift
+!framework/Source/*.swift
+framework/Source/Mac
+framework/Source/Linux
+framework/Source/Operations/LookupImages
+framework/Source/Operations/Shaders

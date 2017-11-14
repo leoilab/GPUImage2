@@ -1,0 +1,13 @@
+{
+  "name": "@leoilab/gpuimage2-ios",
+  "version": "0.1.0",
+  "description": "An open source iOS framework for GPU-based image and video processing.",
+  "main": "index.js",
+  "repository": "https://github.com/leoilab/gpuimage2-ios.git",
+  "author": "Brad Larson <contact@sunsetlakesoftware.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/leoilab/gpuimage2-ios/issues"
+  },
+  "homepage": "https://github.com/leoilab/gpuimage2-ios"
+}
